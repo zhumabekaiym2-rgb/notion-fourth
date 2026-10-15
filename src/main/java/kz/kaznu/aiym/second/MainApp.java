@@ -12,7 +12,7 @@ public class MainApp {
         myBox.open();
         myBox.putItem("Книга");
 
-        myBox.repaint("Синий");
+        myBox.repaint("Красный");
         myBox.printInfo();
 
         myBox.close();
